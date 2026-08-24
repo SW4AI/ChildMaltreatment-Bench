@@ -1,4 +1,4 @@
-# ChildMaltreatment-Bench Grader
+# ChildMaltreatment-Bench
 
 ChildMaltreatment-Bench Grader is a Codex skill and command-line scoring tool for the Child Maltreatment Response Evaluation Benchmark. It processes CSV or XLSX files containing model-generated answers and outputs analysis-ready CSV files with 14 binary rubric scores and a total score.
 
