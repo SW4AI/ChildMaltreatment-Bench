@@ -1,4 +1,0 @@
-# Required only for XLSX/XLS input support.
-# CSV input uses the Python standard library.
-pandas>=2.0
-openpyxl>=3.1
