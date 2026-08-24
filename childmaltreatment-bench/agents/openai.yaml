@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChildMaltreatment-Bench"
+  short_description: "Score ChildMaltreatment-Bench files"
+  default_prompt: "Use $childmaltreatment-bench to score these ChildMaltreatment-Bench CSV/XLSX response files."
