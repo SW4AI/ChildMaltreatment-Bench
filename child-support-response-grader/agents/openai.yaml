@@ -1,0 +1,4 @@
+interface:
+  display_name: "Child Support Response Grader"
+  short_description: "Score child-support model responses"
+  default_prompt: "Use $child-support-response-grader to score these response CSV/XLSX files."
