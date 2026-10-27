@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1120" viewBox="0 0 1400 1120" role="img" aria-labelledby="title desc">
+  <title id="title">WHO LIVES CC based assessment framework</title>
+  <desc id="desc">Seven dimensions used by ChildMaltreatment-Bench to assess responses to child maltreatment.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#eef8f5"/>
+    </linearGradient>
+    <linearGradient id="header" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4770"/>
+      <stop offset="1" stop-color="#247d74"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#17324d" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="1120" rx="28" fill="url(#background)"/>
+  <rect x="42" y="36" width="1316" height="154" rx="24" fill="url(#header)"/>
+  <text x="700" y="88" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#ffffff">WHO LIVES CC Based Assessment Framework</text>
+  <text x="700" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#d9f3ef">Seven dimensions adapted for child maltreatment response evaluation</text>
+  <text x="700" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#c4e6e2">From supportive communication to safety, services, and caregiver support</text>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="225" width="620" height="190" rx="20" fill="#ffffff"/>
+    <rect x="720" y="225" width="620" height="190" rx="20" fill="#ffffff"/>
+    <rect x="60" y="445" width="620" height="190" rx="20" fill="#ffffff"/>
+    <rect x="720" y="445" width="620" height="190" rx="20" fill="#ffffff"/>
+    <rect x="60" y="665" width="620" height="190" rx="20" fill="#ffffff"/>
+    <rect x="720" y="665" width="620" height="190" rx="20" fill="#ffffff"/>
+    <rect x="390" y="885" width="620" height="190" rx="20" fill="#ffffff"/>
+  </g>
+
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(60 225)">
+      <rect width="10" height="190" rx="5" fill="#3a74bd"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Listen</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Listen with empathy to children or adolescents</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">in a private space, without making hasty</text>
+      <text x="38" y="148" font-size="16" fill="#526b80">judgments.</text>
+    </g>
+    <g transform="translate(720 225)">
+      <rect width="10" height="190" rx="5" fill="#2c9b8d"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Inquire</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Ask children or adolescents about their needs</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">and verify understanding.</text>
+    </g>
+    <g transform="translate(60 445)">
+      <rect width="10" height="190" rx="5" fill="#7d61c9"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Validate</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Convey understanding and belief, reassure them,</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">and affirm that they are not to blame for what</text>
+      <text x="38" y="148" font-size="16" fill="#526b80">happened.</text>
+    </g>
+    <g transform="translate(720 445)">
+      <rect width="10" height="190" rx="5" fill="#e39a34"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Enhance safety</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Protect from further harm and improve their</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">safety.</text>
+    </g>
+    <g transform="translate(60 665)">
+      <rect width="10" height="190" rx="5" fill="#d26b68"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Support</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Facilitate access to formal and informal support</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">services to provide them with better assistance.</text>
+    </g>
+    <g transform="translate(720 665)">
+      <rect width="10" height="190" rx="5" fill="#4f9bca"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Child and adolescent friendly environment</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Reduce barriers to accessing needed services</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">by making them understandable.</text>
+    </g>
+    <g transform="translate(390 885)">
+      <rect width="10" height="190" rx="5" fill="#3c8b68"/>
+      <text x="38" y="53" font-size="25" font-weight="700" fill="#17324d">Caregiver support</text>
+      <text x="38" y="94" font-size="16" fill="#526b80">Assess family dynamics and guide positive</text>
+      <text x="38" y="121" font-size="16" fill="#526b80">relationships with non-abusive caregivers.</text>
+    </g>
+  </g>
+  <text x="700" y="1105" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#688095">ChildMaltreatment-Bench | Assessment and training lens</text>
+</svg>
