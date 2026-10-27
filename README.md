@@ -2,7 +2,7 @@
 
 An agent-compatible tool that scores child-maltreatment responses automatically and turns missing skills into practical feedback for AI evaluation, research, and social-work training.
 
-![ChildMaltreatment-Bench workflow](assets/workflow.svg)
+<img width="1200" height="360" alt="image" src="https://github.com/user-attachments/assets/cd118a9d-f008-4c19-a299-892104153306" />
 
 ChildMaltreatment-Bench helps users answer a simple question: **What is good about this response, what is missing, and how can the next response be better?** It converts an expert-informed WHO LIVES CC-based assessment framework into a repeatable workflow for response review and practice.
 
@@ -12,7 +12,8 @@ The WHO LIVES CC framework is an authoritative, evidence-informed approach to fi
 
 The framework definitions below are adapted directly from the project's content-analysis codebook:
 
-![WHO LIVES CC based assessment framework](assets/lives-cc-framework.svg)
+<img width="1400" height="1120" alt="image" src="https://github.com/user-attachments/assets/4b69da16-304b-4d66-b391-9d34e9f0a3d3" />
+
 
 The image presents the framework at a conceptual level. Detailed operational scoring rules remain in [`references/rubric.md`](references/rubric.md).
 
