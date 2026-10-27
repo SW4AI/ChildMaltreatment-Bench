@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChildMaltreatment-Bench"
+  short_description: "Automate WHO LIVES CC response assessment"
+  default_prompt: "Use $childmaltreatment-bench to assess these child maltreatment response files with the WHO LIVES CC-based rubric."
