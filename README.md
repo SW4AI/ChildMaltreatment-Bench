@@ -15,7 +15,7 @@ The framework definitions below are adapted directly from the project's content-
 <img width="1400" height="1120" alt="image" src="https://github.com/user-attachments/assets/4b69da16-304b-4d66-b391-9d34e9f0a3d3" />
 
 
-The image presents the framework at a conceptual level. Detailed operational scoring rules remain in [`references/rubric.md`](references/rubric.md).
+The image presents the framework at a conceptual level. Detailed operational scoring rules remain in [Detailed assessment rubric](./childmaltreatment-bench/references/rubric.md).
 
 ## Why Use It
 
