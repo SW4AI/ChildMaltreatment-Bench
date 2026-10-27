@@ -17,6 +17,12 @@ The framework definitions below are adapted directly from the project's content-
 
 The image presents the framework at a conceptual level. Detailed operational scoring rules remain in [Detailed assessment rubric](./childmaltreatment-bench/references/rubric.md).
 
+## Scientific Basis and Calibration
+
+The scoring system was developed from approximately 8,400 human-scored responses. These expert-coded data were used as the foundation for training, validation, error analysis, and calibration against the 14 assessment criteria. After validation and refinement, the resulting program translates the human scoring standard into a reproducible automated workflow for large-scale response assessment.
+
+This evidence-informed process improves scoring consistency and efficiency while preserving the role of human review. The automated output is intended to support research coding, pre-annotation, supervision, and social-work skills practice; it does not replace professional judgment or safeguarding procedures.
+
 ## Why Use It
 
 - **For AI teams:** compare many model responses consistently.
